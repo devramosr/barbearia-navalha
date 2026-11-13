@@ -30,8 +30,8 @@ Modelo de site de uma página para barbearia: lista de serviços com preços, mo
 
 | | |
 |---|---|
-| Interface | React 18 |
-| Build e dev server | Vite 5 |
+| Interface | React 19 |
+| Build e dev server | Vite 8 |
 | Estilo | CSS puro (variáveis, grid e flexbox) |
 | Fontes | Bebas Neue e DM Sans (Google Fonts) |
 
